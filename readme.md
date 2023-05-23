@@ -3,4 +3,4 @@
  # comando push
  # foi ebaaaa
  # agora o pull
- 
+ # fetch?
